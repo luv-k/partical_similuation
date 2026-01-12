@@ -1,0 +1,18 @@
+# Virtual environment
+.sim/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Dist / build
+dist/
+build/
+*.egg-info/
